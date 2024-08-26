@@ -15,3 +15,14 @@ No prerequisites are required for this project as all dependencies are loaded vi
 ### Installing
 
 To get a local copy up and running, simply clone the repository and open the HTML file in your browser.
+
+## Built With
+
+* HTML5
+* CSS3
+* JavaScript
+
+## Acknowledgments
+
+* Hat tip to @sheriyanscodingschool for their help in creating this project.
+* Design credit goes to Sundown-Main.
